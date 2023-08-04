@@ -1,0 +1,49 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "fc3577e3-3384-4758-9875-6aa116ffd9f8",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/fc3577e3-3384-4758-9875-6aa116ffd9f8_fr_Female.mp4"
+        },
+        {
+            "id": "99e9708b-4a05-46cc-bbf1-bc82aedaa212",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/99e9708b-4a05-46cc-bbf1-bc82aedaa212_fr_Male.mp4"
+        },
+        {
+            "id": "f5cc7fde-b74c-4832-8870-86ee9ce81f59",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/f5cc7fde-b74c-4832-8870-86ee9ce81f59_fr_Male.mp4"
+        },
+        {
+            "id": "4356948b-e305-4f1c-b729-6b5f882dbab1",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/4356948b-e305-4f1c-b729-6b5f882dbab1_fr_Female.mp4"
+        },
+        {
+            "id": "ff7cc84a-0f66-4014-a938-22505b13d5a7",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/ff7cc84a-0f66-4014-a938-22505b13d5a7_fr_Male.mp4"
+        },
+        {
+            "id": "9247f43c-99bc-4cdb-b715-06db866a4711",
+            "collectionId": "French",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/French/9247f43c-99bc-4cdb-b715-06db866a4711_fr_Male.mp4"
+        }
+    ]
+}
